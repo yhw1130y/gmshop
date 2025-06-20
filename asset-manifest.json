@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gmshop/static/css/main.e036f060.css",
+    "main.js": "/gmshop/static/js/main.1208edd5.js",
+    "static/js/453.4e643da4.chunk.js": "/gmshop/static/js/453.4e643da4.chunk.js",
+    "index.html": "/gmshop/index.html",
+    "main.e036f060.css.map": "/gmshop/static/css/main.e036f060.css.map",
+    "main.1208edd5.js.map": "/gmshop/static/js/main.1208edd5.js.map",
+    "453.4e643da4.chunk.js.map": "/gmshop/static/js/453.4e643da4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e036f060.css",
+    "static/js/main.1208edd5.js"
+  ]
+}
