@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gmshop/static/css/main.e036f060.css",
-    "main.js": "/gmshop/static/js/main.197107ae.js",
+    "main.css": "/gmshop/static/css/main.ec89d185.css",
+    "main.js": "/gmshop/static/js/main.1ac58813.js",
     "static/js/453.4e643da4.chunk.js": "/gmshop/static/js/453.4e643da4.chunk.js",
     "index.html": "/gmshop/index.html",
-    "main.e036f060.css.map": "/gmshop/static/css/main.e036f060.css.map",
-    "main.197107ae.js.map": "/gmshop/static/js/main.197107ae.js.map",
+    "main.ec89d185.css.map": "/gmshop/static/css/main.ec89d185.css.map",
+    "main.1ac58813.js.map": "/gmshop/static/js/main.1ac58813.js.map",
     "453.4e643da4.chunk.js.map": "/gmshop/static/js/453.4e643da4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e036f060.css",
-    "static/js/main.197107ae.js"
+    "static/css/main.ec89d185.css",
+    "static/js/main.1ac58813.js"
   ]
 }
